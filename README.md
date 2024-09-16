@@ -27,6 +27,13 @@ This project was developed for for a specific chama(i.e Investiment group) which
 - *The __source code__ to the current implementation will be witheld for privacy purposes but the remodelled version will be made public through this repo*
 
 Here is a glimse of the current implementation:
+![Financ2](https://github.com/user-attachments/assets/03611a13-5a53-4368-bac3-0e117f15f2e6)
+
+![financ3](https://github.com/user-attachments/assets/8c107a24-0e9c-4694-9c60-a17100448524)
+
+![finc4](https://github.com/user-attachments/assets/f8017ac1-cec7-403b-803c-fdab5b5bd772)
+
 ![finc5](https://github.com/user-attachments/assets/400909f8-4317-4738-bb39-eea8fbc83e71)
+
 
   
